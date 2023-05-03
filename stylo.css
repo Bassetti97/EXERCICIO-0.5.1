@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+ul{
+    margin: 60px;
+    text-align: center;
+}
+ div:nth-child(even) {
+background-color: rgb(209, 207, 207);
+ }
+ div:hover{
+    transform: scale(1.1);
+ }
+ div{
+    padding: 0.2px;
+ }
+   
+a {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+.pendentes {
+    background-color: #8FD14F;
+    color: black; 
+    font-family: sans-serif;
+    text-decoration: none; 
+    font-weight: bold
+}
+.concluidas {
+    background-color: #0CA789;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: bold
+}
+.excluidas {
+    background-color: #EB4045 ;
+    color: black;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: bold
+}
+ .tarefa1{
+    width: 350px;
+    border-radius: 70px;
+    border: 35px;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: #8FD14F;
+    font-family: sans-serif;
+}
+.tarefa2 {
+    width: 350px;
+    border-radius: 70px;
+    border: 35px;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: #0CA789 ;
+    font-family: sans-serif;
+}
+.tarefa3 {
+    width: 350px;
+    border-radius: 70px;
+    border: 35px;
+    margin: 0 auto;
+    text-decoration: none;
+    background-color:#EB4045 ;
+    font-family: sans-serif;
+}
+
+
+
+
+
